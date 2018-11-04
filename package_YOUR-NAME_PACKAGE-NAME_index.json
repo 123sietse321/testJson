@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "Sietse Kerkvliet",
-      "maintainer": "SparkFun Electronics",
+      "maintainer": "Sietse Kerkvliet",
       "websiteURL": "https://SparkFun.com",
       "email": "TechSupport@SparkFun.com",
       "help": {
@@ -720,7 +720,7 @@
       ]
     },
     {
-      "maintainer": "SparkFun Electronics",
+      "maintainer": "Sietse Kerkvliet",
       "help": {
         "online": "http://SparkFun.com"
       },
