@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "Sietse Kerkvliet",
-      "maintainer": "Sietse Kerkvliet",
+      "maintainer": "SparkFun Electronics",
       "websiteURL": "https://SparkFun.com",
       "email": "TechSupport@SparkFun.com",
       "help": {
@@ -415,10 +415,10 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Sietse MINI Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Sietse MINI Dev Breakout"
             }
           ],
           "toolsDependencies": []
@@ -437,10 +437,10 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Sietse MINI Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Sietse MINI Dev Breakout"
             }
           ],
           "toolsDependencies": []
@@ -459,10 +459,10 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Sietse MINI Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Sietse MINI Dev Breakout"
             }
           ],
           "toolsDependencies": []
@@ -481,10 +481,10 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Sietse MINI Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Sietse MINI Dev Breakout"
             }
           ],
           "toolsDependencies": []
@@ -503,10 +503,10 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Sietse MINI Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Sietse MINI Dev Breakout"
             }
           ],
           "toolsDependencies": []
@@ -525,10 +525,10 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Sietse MINI Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Sietse MINI Dev Breakout"
             },
             {
               "name": "SparkFun 9DoF Razor IMU M0"
@@ -550,10 +550,10 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Sietse MINI Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Sietse MINI Dev Breakout"
             },
             {
               "name": "SparkFun 9DoF Razor IMU M0"
@@ -575,10 +575,10 @@
           },
           "boards": [
             {
-              "name": "SparkFun SAMD21 Mini Breakout"
+              "name": "Sietse MINI Mini Breakout"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Sietse MINI Dev Breakout"
             },
             {
               "name": "SparkFun 9DoF Razor IMU M0"
@@ -612,7 +612,7 @@
               "name": "Siuino"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Sietse MINI Dev Breakout"
             },
             {
               "name": "SparkFun 9DoF Razor IMU M0"
@@ -641,7 +641,7 @@
               "name": "Siuino"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Sietse MINI Dev Breakout"
             },
             {
               "name": "SparkFun 9DoF Razor IMU M0"
@@ -650,7 +650,7 @@
               "name": "LilyPad LilyMini"
             },
             {
-              "name": "Sparkfun SAMD21 Pro RF"
+              "name": "Sietse MINI Pro RF"
             }
           ],
           "toolsDependencies": [
@@ -673,7 +673,7 @@
               "name": "Siuino"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "Sietse MINI Dev Breakout"
             },
             {
               "name": "SparkFun 9DoF Razor IMU M0"
@@ -682,7 +682,7 @@
               "name": "LilyPad LilyMini"
             },
             {
-              "name": "Sparkfun SAMD21 Pro RF"
+              "name": "Sietse MINI Pro RF"
             }
           ],
           "toolsDependencies": [
@@ -720,7 +720,7 @@
       ]
     },
     {
-      "maintainer": "Sietse Kerkvliet",
+      "maintainer": "SparkFun Electronics",
       "help": {
         "online": "http://SparkFun.com"
       },
