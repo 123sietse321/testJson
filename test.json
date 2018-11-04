@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "name": "SparkFun",
-      "maintainer": "SparkFun Electronics",
+      "name": "SietseKerkvliet",
+      "maintainer": "SietseKerkvlietElectronics",
       "websiteURL": "https://SparkFun.com",
       "email": "TechSupport@SparkFun.com",
       "help": {
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "SparkFun AVR Boards",
+          "name": "SietseKerkvlietAVR Boards",
           "architecture": "avr",
           "version": "1.1.5",
           "category": "Contributed",
@@ -56,7 +56,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "SietseKerkvlietAVR Boards",
           "architecture": "avr",
           "version": "1.1.6",
           "category": "Contributed",
@@ -102,7 +102,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "SietseKerkvlietAVR Boards",
           "architecture": "avr",
           "version": "1.1.7",
           "category": "Contributed",
@@ -151,7 +151,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "SietseKerkvlietAVR Boards",
           "architecture": "avr",
           "version": "1.1.8",
           "category": "Contributed",
@@ -200,7 +200,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "SietseKerkvlietAVR Boards",
           "architecture": "avr",
           "version": "1.1.9",
           "category": "Contributed",
@@ -249,7 +249,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "SietseKerkvlietAVR Boards",
           "architecture": "avr",
           "version": "1.1.10",
           "category": "Contributed",
@@ -298,7 +298,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "SietseKerkvlietAVR Boards",
           "architecture": "avr",
           "version": "1.1.11",
           "category": "Contributed",
@@ -350,7 +350,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun AVR Boards",
+          "name": "SietseKerkvlietAVR Boards",
           "architecture": "avr",
           "version": "1.1.12",
           "category": "Contributed",
@@ -402,7 +402,7 @@
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
+          "name": "SietseKerkvlietSAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
@@ -418,13 +418,13 @@
               "name": "Siuino Pro"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "SietseKerkvlietSAMD21 Dev Breakout"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
+          "name": "SietseKerkvlietSAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
           "architecture": "samd",
           "version": "1.1.0",
           "category": "Contributed",
@@ -440,13 +440,13 @@
               "name": "Siuino Pro"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "SietseKerkvlietSAMD21 Dev Breakout"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
+          "name": "SietseKerkvlietSAMD Boards (dependency: Arduino SAMD Boards 1.6.5)",
           "architecture": "samd",
           "version": "1.2.0",
           "category": "Contributed",
@@ -462,13 +462,13 @@
               "name": "Siuino Pro"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "SietseKerkvlietSAMD21 Dev Breakout"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.6)",
+          "name": "SietseKerkvlietSAMD Boards (dependency: Arduino SAMD Boards 1.6.6)",
           "architecture": "samd",
           "version": "1.2.1",
           "category": "Contributed",
@@ -484,13 +484,13 @@
               "name": "Siuino Pro"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "SietseKerkvlietSAMD21 Dev Breakout"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.8)",
+          "name": "SietseKerkvlietSAMD Boards (dependency: Arduino SAMD Boards 1.6.8)",
           "architecture": "samd",
           "version": "1.2.2",
           "category": "Contributed",
@@ -506,13 +506,13 @@
               "name": "Siuino Pro"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "SietseKerkvlietSAMD21 Dev Breakout"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.8)",
+          "name": "SietseKerkvlietSAMD Boards (dependency: Arduino SAMD Boards 1.6.8)",
           "architecture": "samd",
           "version": "1.3.0",
           "category": "Contributed",
@@ -528,16 +528,16 @@
               "name": "Siuino Pro"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "SietseKerkvlietSAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "SietseKerkvliet9DoF Razor IMU M0"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards (dependency: Arduino SAMD Boards 1.6.9)",
+          "name": "SietseKerkvlietSAMD Boards (dependency: Arduino SAMD Boards 1.6.9)",
           "architecture": "samd",
           "version": "1.3.2",
           "category": "Contributed",
@@ -553,16 +553,16 @@
               "name": "Siuino Pro"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "SietseKerkvlietSAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "SietseKerkvliet9DoF Razor IMU M0"
             }
           ],
           "toolsDependencies": []
         },
         {
-          "name": "SparkFun SAMD Boards",
+          "name": "SietseKerkvlietSAMD Boards",
           "architecture": "samd",
           "version": "1.4.0",
           "category": "Contributed",
@@ -578,10 +578,10 @@
               "name": "Siuino Pro"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "SietseKerkvlietSAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "SietseKerkvliet9DoF Razor IMU M0"
             },
             {
               "name": "LilyPad LilyMini"
@@ -589,14 +589,14 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "SparkFun",
+              "packager": "SietseKerkvliet",
               "name": "bossac",
               "version": "1.4.0"
             }
           ]
         },
         {
-          "name": "SparkFun SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
+          "name": "SietseKerkvlietSAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
           "architecture": "samd",
           "version": "1.5.0",
           "category": "Contributed",
@@ -612,10 +612,10 @@
               "name": "Siuino Pro"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "SietseKerkvlietSAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "SietseKerkvliet9DoF Razor IMU M0"
             },
             {
               "name": "LilyPad LilyMini"
@@ -625,7 +625,7 @@
           ]
         },
         {
-          "name": "SparkFun SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
+          "name": "SietseKerkvlietSAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
           "architecture": "samd",
           "version": "1.5.1",
           "category": "Contributed",
@@ -641,23 +641,23 @@
               "name": "Siuino Pro"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "SietseKerkvlietSAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "SietseKerkvliet9DoF Razor IMU M0"
             },
             {
               "name": "LilyPad LilyMini"
             },
             {
-              "name": "Sparkfun SAMD21 Pro RF"
+              "name": "SietseKerkvlietSAMD21 Pro RF"
             }
           ],
           "toolsDependencies": [
           ]
         },
         {
-          "name": "SparkFun SAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
+          "name": "SietseKerkvlietSAMD Boards  (dependency: Arduino SAMD Boards 1.6.19)",
           "architecture": "samd",
           "version": "1.5.2",
           "category": "Contributed",
@@ -673,16 +673,16 @@
               "name": "Siuino Pro"
             },
             {
-              "name": "SparkFun SAMD21 Dev Breakout"
+              "name": "SietseKerkvlietSAMD21 Dev Breakout"
             },
             {
-              "name": "SparkFun 9DoF Razor IMU M0"
+              "name": "SietseKerkvliet9DoF Razor IMU M0"
             },
             {
               "name": "LilyPad LilyMini"
             },
             {
-              "name": "Sparkfun SAMD21 Pro RF"
+              "name": "SietseKerkvlietSAMD21 Pro RF"
             }
           ],
           "toolsDependencies": [
@@ -720,7 +720,7 @@
       ]
     },
     {
-      "maintainer": "SparkFun Electronics",
+      "maintainer": "SietseKerkvlietElectronics",
       "help": {
         "online": "http://SparkFun.com"
       },
@@ -728,7 +728,7 @@
       "platforms": [
         {
           "category": "Contributed",
-          "name": "SparkFun ESP8266 Boards",
+          "name": "SietseKerkvlietESP8266 Boards",
           "url": "https://cdn.sparkfun.com/assets/learn_tutorials/4/9/5/sparkfun-esp8266-2.1.0.tar.bz2",
           "checksum": "SHA-256:FE3E0504B38A5A4C912801A3E4633380A666DC77B8D3043548187AF8675477DA",
           "help": {
@@ -739,13 +739,13 @@
           "archiveFileName": "sparkfun-esp8266-2.1.0.tar.bz2",
           "boards": [
             {
-              "name": "SparkFun Blynk Board - ESP8266"
+              "name": "SietseKerkvlietBlynk Board - ESP8266"
             },
             {
-              "name": "SparkFun ESP8266 Thing"
+              "name": "SietseKerkvlietESP8266 Thing"
             },
             {
-              "name": "SparkFun ESP8266 Thing - Development Board"
+              "name": "SietseKerkvlietESP8266 Thing - Development Board"
             },
             {
               "name": "Generic ESP8266 Module"
