@@ -2,11 +2,11 @@
   "packages": [
     {
       "name": "Sietse Kerkvliet",
-      "maintainer": "SparkFun Electronics",
+      "maintainer": "https://www.google.com/search?q=sietse&oq=sietse&aqs=chrome..69i57j0l3j69i61j69i60.670j0j7&sourceid=chrome&ie=UTF-8",
       "websiteURL": "https://SparkFun.com",
       "email": "TechSupport@SparkFun.com",
       "help": {
-        "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
+        "online": "https://www.google.com/search?q=sietse&oq=sietse&aqs=chrome..69i57j0l3j69i61j69i60.670j0j7&sourceid=chrome&ie=UTF-8"
       },
       "platforms": [
         {
@@ -19,7 +19,7 @@
           "checksum": "SHA-256:41f9728983e0dbab597bb46ddf00b5bac6cfec7c8f3771ecd1612dae58bb0366",
           "size": "1162215",
           "help": {
-            "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
+            "online": "https://www.google.com/search?q=sietse&oq=sietse&aqs=chrome..69i57j0l3j69i61j69i60.670j0j7&sourceid=chrome&ie=UTF-8"
           },
           "boards": [
             {
